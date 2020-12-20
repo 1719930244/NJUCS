@@ -1,10 +1,12 @@
-# 1. 南京大学计算机考研408+845科目资料合集
+# 南京大学计算机考研408+845科目资料合集
 
 <img src="https://image.feater.top/njucs_南京大学图标.jpg?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="南京大学图标"></img>
 
 <img src="https://image.feater.top/njucs_南京大学计算机科学与技术系图标.jpg?imageView2/0/q/75|watermark/2/text/aHR0cHM6Ly9mZWF0ZXIudG9w/font/5a6L5L2T/fontsize/800/fill/I0VFMUIxQg==/dissolve/100/gravity/SouthWest/dx/10/dy/10" rel="计算机系图标" />
 
 <font size="10">使用本仓库请完整的阅读本文档</font>
+
+如果内容显示异常，可以查看<a href="https://feater.top/ebooks/15/">此处</a>
 
 ***资料包括：***
 
